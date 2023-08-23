@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: http://expert.prestashops.pp.ua/
+Sitemap: http://expert.prestashops.pp.ua/sitemap.xml
